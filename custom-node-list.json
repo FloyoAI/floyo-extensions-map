@@ -1,0 +1,15 @@
+{
+    "custom_nodes": [
+        {
+            "author": "ComfyUI",
+            "title": "ComfyUI Official",
+            "id": "comfy",
+            "reference": "https://github.com/comfyanonymous/ComfyUI",
+            "files": [
+                "https://github.com/comfyanonymous/ComfyUI"
+            ],
+            "install_type": "git-clone",
+            "description": "ComfyUI"
+        },
+    ]
+}
