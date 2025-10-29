@@ -325,8 +325,6 @@
             "WebcamCapture",
             "unCLIPCheckpointLoader",
             "unCLIPConditioning",
-
-            // Newly added unique nodes appended below:
             "APG",
             "AlignYourStepsScheduler",
             "AudioAdjustVolume",
