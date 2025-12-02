@@ -11,5 +11,16 @@
             "install_type": "git-clone",
             "description": "ComfyUI"
         },
+        {
+            "author": "FloyoAI",
+            "title": "ComfyUI-Floyo-API",
+            "id": "floyo",
+            "reference": "https://github.com/FloyoAI/ComfyUI-Floyo-API",
+            "files": [
+                "https://github.com/FloyoAI/ComfyUI-Floyo-API"
+            ],
+            "install_type": "git-clone",
+            "description": "Floyo API Nodes"
+        },
     ]
 }
