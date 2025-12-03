@@ -470,10 +470,7 @@
             "WanLoraTrainer_floyo",
             "LtxVideoTrainer_floyo",
             "LLM_floyo",
-            "VideoToFrames",
-            "OmniHumanVideoGenerationTensor_floyo",
-            "OmniHumanSubjectRecognition_floyo",
-            "OmniHumanSubjectDetection_floyo"
+            "VideoToFrames"
         ],
         {
             "title": "ComfyUI-Floyo-API"
