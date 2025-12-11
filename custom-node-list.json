@@ -13,7 +13,7 @@
         },
         {
             "author": "FloyoAI",
-            "title": "ComfyUI-Floyo-API",
+            "title": "Floyo API",
             "id": "floyo",
             "reference": "https://github.com/FloyoAI/ComfyUI-Floyo-API",
             "files": [
