@@ -414,6 +414,9 @@
         [
             "AlibabaWan25ImageToVideo_floyo",
             "AlibabaWan25TextToVideo_floyo",
+            "AlibabaWan26ImageToVideo_floyo",
+            "AlibabaWan26ReferenceToVideo_floyo",
+            "AlibabaWan26TextToVideo_floyo",
             "Bria_Video_Increase_Resolution_floyo",
             "CombinedVideoGeneration_floyo",
             "DYWanFun22_floyo",
