@@ -469,6 +469,8 @@
             "LTX2ProImageToVideo_floyo",
             "LTX2ProTextToVideo_floyo",
             "LTX2RetakeVideo_floyo",
+            "LightxRecamera_floyo",
+            "LightxRelight_floyo",
             "LoadVideoURL_floyo",
             "LtxVideoTrainer_floyo",
             "LumaDreamMachine_floyo",
