@@ -122,6 +122,7 @@
             "ImageRotate",
             "ImageScale",
             "ImageScaleBy",
+            "Image Comparer (rgthree)",
             "ImageScaleToMaxDimension",
             "ImageScaleToTotalPixels",
             "ImageSharpen",
