@@ -405,7 +405,13 @@
             "WanSoundImageToVideoExtend",
             "WanTrackToVideo",
             "WorkflowGraphics",
-            "WanVaceToVideo"
+            "WanVaceToVideo",
+            "AILab_FlashVSR",
+            "AILab_FlashVSR_Advanced",
+            "DetailTransfer",
+            "NormalCrafterNode",
+            "Kytra_Images_To_RGB",
+            "MatAnyoneVideoMatting"
         ],
         {
             "title_aux": "ComfyUI"
