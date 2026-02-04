@@ -875,7 +875,11 @@
             "WanVideoVRAMManagement",
             "WanVideoWanDrawWanMoveTracks",
             "Wav2VecModelLoader",
-            "WhisperModelLoader"
+            "WhisperModelLoader",
+            "SopranoLoader",
+            "SopranoTTS",
+            "SopranoTTSBatch",
+            "SopranoTTSStream"
         ],
         {
             "title_aux": "ComfyUI"
