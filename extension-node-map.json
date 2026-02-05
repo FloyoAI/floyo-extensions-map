@@ -879,7 +879,8 @@
             "SopranoLoader",
             "SopranoTTS",
             "SopranoTTSBatch",
-            "SopranoTTSStream"
+            "SopranoTTSStream",
+            "ColorMatchV2"
         ],
         {
             "title_aux": "ComfyUI"
