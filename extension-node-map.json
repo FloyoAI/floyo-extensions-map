@@ -880,7 +880,17 @@
             "SopranoTTS",
             "SopranoTTSBatch",
             "SopranoTTSStream",
-            "ColorMatchV2"
+            "ColorMatchV2",
+            "ComfySketch",
+            "Vintage Effect",
+            "NormalizedAttentionGuidance",
+            "PLADIS",
+            "PerturbedAttention",
+            "SlidingWindowGuidanceAdvanced",
+            "SmoothedEnergyGuidanceAdvanced",
+            "TRTAttachPag",
+            "TRTPerturbedAttention",
+            "TokenPerturbationGuidance"
         ],
         {
             "title_aux": "ComfyUI"
