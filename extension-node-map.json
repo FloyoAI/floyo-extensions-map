@@ -890,7 +890,9 @@
             "SmoothedEnergyGuidanceAdvanced",
             "TRTAttachPag",
             "TRTPerturbedAttention",
-            "TokenPerturbationGuidance"
+            "TokenPerturbationGuidance",
+            "OmnimatteLoader",
+            "OmnimatteObjectRemoval"
         ],
         {
             "title_aux": "ComfyUI"
