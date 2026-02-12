@@ -1383,7 +1383,17 @@
             "Write to GIF",
             "Write to Video",
             "unCLIP Checkpoint Loader",
-            "QwenMultiangleLightningNode"
+            "QwenMultiangleLightningNode",
+            "ImageScaleToTotalPixelsX",
+            "ApplyIPAdapterFlux",
+            "ApplyIPAdapterFluxAdvanced",
+            "IPAdapterFluxLoader",
+            "IPAdapterFluxLoaderAdvanced",
+            "WanContinuationConditioning",
+            "WanFreeLong",
+            "WanFreeLongEnforcer",
+            "WanMotionScale",
+            "WanMotionScaleAdvanced"
         ],
         {
             "title_aux": "ComfyUI"
