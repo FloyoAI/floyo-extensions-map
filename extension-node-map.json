@@ -1393,7 +1393,16 @@
             "WanFreeLong",
             "WanFreeLongEnforcer",
             "WanMotionScale",
-            "WanMotionScaleAdvanced"
+            "WanMotionScaleAdvanced",
+            "EdgeTTS",
+            "Save_Audio",
+            "WhisperSTT",
+            "TeaCacheCoefficientCalculator",
+            "TeaCache_Lumina2",
+            "FlowMatchEulerDiscreteScheduler (Custom)",
+            "ImageMetadataExtractor",
+            "NunchakuQwenPatches",
+            "PatchFlashAttention"
         ],
         {
             "title_aux": "ComfyUI"
