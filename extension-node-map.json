@@ -1402,7 +1402,21 @@
             "FlowMatchEulerDiscreteScheduler (Custom)",
             "ImageMetadataExtractor",
             "NunchakuQwenPatches",
-            "PatchFlashAttention"
+            "PatchFlashAttention",
+            "LTXVContext_TTP",
+            "LTXVFirstLastFrameControl_TTP",
+            "LTXVMiddleFrame_TTP",
+            "TTP_CoordinateSplitter",
+            "TTP_Expand_And_Mask",
+            "TTP_Image_Assy",
+            "TTP_Image_Tile_Batch",
+            "TTP_Tile_image_size",
+            "TTP_condsetarea_merge",
+            "TTP_condsetarea_merge_test",
+            "TTP_condtobatch",
+            "TTP_text_mix",
+            "TTPlanet_Tile_Preprocessor_Simple",
+            "TeaCacheHunyuanVideoSampler"
         ],
         {
             "title_aux": "ComfyUI"
