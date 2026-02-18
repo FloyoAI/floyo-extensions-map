@@ -1447,6 +1447,8 @@
             "GrokImagineVideoImageToVideo_floyo",
             "GrokImagineVideoTextToVideo_floyo",
             "Hidreamfull_floyo",
+            "Hunyuan3dProImageTo3d_floyo",
+            "Hunyuan3dProTextTo3d_floyo",
             "HunyuanImageV3TextToImage_floyo",
             "HunyuanVideoLoraTrainer_floyo",
             "Hyper3dRodin_floyo",
